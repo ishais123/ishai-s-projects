@@ -1,6 +1,6 @@
 # ishais-jon-project
 
-# It's private project to containerized ftp application wrote in python that get .mp4 file and upload it to S3 bucket in AWS
+# It's a private project to containerized ftp application wrote in python that get .mp4 file and upload it to S3 bucket in AWS
 
 To run this server perform the steps below :
 
