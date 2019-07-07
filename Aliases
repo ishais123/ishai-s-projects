@@ -1,3 +1,4 @@
 images = 'docker images'
 drun = 'docker ps'
 dex = 'docker ps -a'
+iftp = 'docker run --name ftp -p 21:21 -d ishais/jon-project:ftp-server'
